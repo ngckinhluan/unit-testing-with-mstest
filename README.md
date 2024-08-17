@@ -1,0 +1,1 @@
+[![Unit Testing With MSTest project (CI applied)](https://github.com/ngckinhluan/unit-testing-with-mstest/actions/workflows/ci-script.yml/badge.svg)](https://github.com/ngckinhluan/unit-testing-with-mstest/actions/workflows/ci-script.yml)
